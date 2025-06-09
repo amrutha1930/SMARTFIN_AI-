@@ -14,11 +14,17 @@ Hosted on cloud platforms (e.g., Vercel, AWS, MongoDB Atlas).
 
 ## HOW TO USE :
 1.Sign Up / Log In – Securely create your account.
+
 2.Complete Onboarding – Fill in income, expenses, savings, and goals.
+
 3.Explore Dashboard – Track your budget, income, and expenses visually.
+
 4.Chat with SmartFin – Ask questions like:
+
 "How much should I save for retirement?"
 "Suggest a low-risk investment."
+
 5.Set Goals – Add savings targets and timelines (e.g., house purchase, emergency fund).
+
 6.This will show you the appropriate and customized financial plan.
 
